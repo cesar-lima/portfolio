@@ -1,0 +1,106 @@
+.projects{
+    margin-top: 340px;
+    // padding-inline: 50px;
+
+    .section-title {
+        font-size: 0.83rem;
+        letter-spacing: 3px;
+        font-weight: 500;
+        padding-inline: 50px;
+    }
+
+    .section-subtitle{
+        font-size: 2rem;
+        font-weight: 500;
+        padding-inline: 50px;
+    }
+
+    .projects-container{
+        margin-top: 40px;
+        display: flex;
+        gap: 40px;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+        .gradient1{
+            background: linear-gradient(#f3a9a9, #b0b5f3);
+        }
+
+        .gradient2{
+            background: linear-gradient(135deg, #ceb2ef, #a8c2ed);
+        }
+
+        .gradient3{
+            background: linear-gradient(135deg, #a5ccfb, #a9f1f0);;
+        }
+
+        .gradient4{
+            background: linear-gradient(135deg, #f2daa6, #d1fdff);;
+        }
+
+        .gradient5{
+            background: linear-gradient(135deg, #f0cfad, #ee9dae);
+        }
+
+        .gradient6{
+            background: linear-gradient(135deg, #d6f293, #a7d3ad);
+        }
+
+        .card{
+            display: flex;
+            flex-direction: column;
+            padding: 24px;
+            width: 20rem;
+            height: 24rem;
+            color: black;
+            border: 2px solid #000000;
+            transition: 0.7s;
+
+            .links{
+                display: inherit;
+                gap: 8px;
+                align-items: center;
+                justify-content: flex-end;
+                margin-bottom: 8rem;
+
+                a{
+                    text-decoration: none;
+                    color: black;
+                    cursor: pointer;
+
+                    :visited{
+                        color: black;
+                    }
+                }
+            }
+
+            .title{
+                font-size: 2rem;
+                font-weight: 700;
+                line-height: 30px;
+                padding-bottom: 70px;
+                padding-left: 2rem;
+            }
+
+            .techs{
+                padding-left: 2rem;
+                font-weight: 500;
+                padding-bottom: 24px;
+                font-size: 0.85rem;
+                letter-spacing: 3px;
+            }
+        }
+
+        .card:hover{
+            background: #000000;
+            border: 2px solid #ffffff;
+            color: #ffffff;
+            box-shadow: 5px 5px 0px 0px rgb(255, 255, 255);
+            transition: 0.8s;
+
+            a{
+                color: #ffffff;
+            }
+        }
+    }
+}

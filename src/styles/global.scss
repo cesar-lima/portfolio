@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  margin-bottom: 40px;
+}
+
+body {
+  cursor: default;
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: system-ui, -apple-system, sans-serif;
+  padding-inline: 100px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #3824643e;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #382464;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 860px){
+  body{
+    padding-inline: 50px;
+  }
+}
+
+@media screen and (max-width: 424px){
+  body{
+    padding-inline: 12px;
+  }
+}
