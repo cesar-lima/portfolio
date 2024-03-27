@@ -1,64 +1,54 @@
-import { GithubLogo, LinkedinLogo } from '@phosphor-icons/react'
+import { Envelope, GithubLogo, LinkedinLogo } from '@phosphor-icons/react'
 import '../styles/contacts.scss'
 
 export function Contacts() {
     return (
         <section className="contacts">
+            <div className="section-title">
+                MORE OF ME -
+            </div>
+            
+            <div className="section-subtitle">
+                On The Web 🌐
+            </div>
 
-            <div className="more-of-me">
-                <div className="section-title">
-                    MORE OF ME -
-                </div>
-                <div className="section-subtitle">
-                    On The Web 🌐
-                </div>
-
-                <div className='contacts-container'>
-                    <a href="https://github.com/cesar-lima">
-                        <div>
-                            <GithubLogo size={30} weight="fill" />
+            <div className="contacts-container">
+                <div className="card">
+                    <a href="https://github.com/cesar-lima" target="_blank">
+                        <div className="card-icon">
+                        <GithubLogo size={26} weight="fill" />
                         </div>
 
-                        <div>
-                            Github.
+                        <div className="card-title">
+                            GitHub
                         </div>
                     </a>
+                </div>
 
-                    <a href="">
-                        <div>
-                            <LinkedinLogo size={30} weight="fill" />
+                <div className="card">
+                    <a href="https://br.linkedin.com/in/cesar-lima-correia" target="_blank">
+                        <div className="card-icon">
+                        <LinkedinLogo size={26} weight="fill" />
                         </div>
 
-                        <div>
-                            linkedin.
+                        <div className="card-title">
+                            LinkedIn
+                        </div>
+                    </a>
+                </div>
+
+                <div className="card">
+                    <a href="mailto:cesarr340@gmail.com" target="_blank" >
+                        <div className="card-icon">
+                        <Envelope size={26} />
+                        </div>
+
+                        <div className="card-title">
+                            Email - <span>cesarr340@gmail.com</span>
                         </div>
                     </a>
                 </div>
             </div>
-
-
-            <div className='border'></div>
-
-
-            <div className="email-and-tel">
-                <div className="section-title">
-                    - CONTACT
-                </div>
-                <div className="section-subtitle">
-                    😁 Look Who’s Here
-                </div>
-
-                <div className='contacts-container'>
-                    <div className='contacts-card'>
-
-                    </div>
-
-                    <div className="contacts-card">
-
-                    </div>
-                </div>
-            </div>
-
         </section>
     )
 }

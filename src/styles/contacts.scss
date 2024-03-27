@@ -1,6 +1,4 @@
 .contacts{
-    display: flex;
-    gap: 20px;
     margin-top: 200px;
     padding-inline: 50px;
 
@@ -8,10 +6,55 @@
         font-size: 0.83rem;
         letter-spacing: 3px;
         font-weight: 500;
+        opacity: 0.5;
     }
 
     .section-subtitle{
         font-size: 2rem;
         font-weight: 500;
+    }
+
+    .contacts-container{
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        .card{
+            border: 1px solid #ffffff;
+            border-bottom: 3px solid #FF325D;
+            padding: 8px;
+            padding-bottom: 4px;
+            display: flex;
+            flex-direction: column;
+            width: 20rem;
+            min-width: 17rem;
+            
+            a:hover{
+                color: #ffffff;
+            }
+
+            a{
+                text-decoration: none;
+                color: #ffffffb6;
+                transition: 0.5s;
+                font-weight: 600;
+
+                :visited{
+                    color: #ffffff;
+                    text-decoration: none;
+                }
+
+                .card-icon{
+                    display: flex;
+                    justify-content: flex-end;
+                }
+            }
+
+            span{
+                font-size: 10pt;
+            }
+        }
     }
 }
