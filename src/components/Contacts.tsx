@@ -3,7 +3,7 @@ import '../styles/contacts.scss'
 
 export function Contacts() {
     return (
-        <section className="contacts">
+        <section className="contacts" id="contacts">
             <div className="section-title">
                 MORE OF ME -
             </div>

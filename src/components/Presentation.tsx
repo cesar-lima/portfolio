@@ -16,7 +16,9 @@ export function Presentation(){
                 I'm a front-end developer<br />based in São Paulo, Brazil
             </div>
             <div>
-                <button>HIRE ME</button>
+                <button>
+                    <a href="#contacts">HIRE ME</a>
+                </button>
             </div>
         </section>
     )
