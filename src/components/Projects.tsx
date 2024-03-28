@@ -14,6 +14,9 @@ export function Projects(){
             <div className="projects-container">
                 <div className="card gradient1">
                     <div className="links">
+                        <a href="https://github.com/cesar-lima/document-express" target="_blank">
+                            <GithubLogo size={29} weight="fill" />
+                        </a>
                         <a href="https://docexpress.netlify.app" target="_blank">
                             <ArrowSquareOut size={30} />
                         </a>
@@ -30,7 +33,7 @@ export function Projects(){
 
                 <div className="card gradient3">
                     <div className="links">
-                        <a href="https://github.com/cesar-lima/eschool">
+                        <a href="https://github.com/cesar-lima/eschool" target="_blank">
                             <GithubLogo size={30} weight="fill" />
                         </a>
                     </div>
@@ -46,7 +49,7 @@ export function Projects(){
 
                 <div className="card gradient2">
                     <div className="links">
-                        <a href="https://github.com/cesar-lima/letmeask">
+                        <a href="https://github.com/cesar-lima/letmeask" target="_blank">
                             <GithubLogo size={30} weight="fill" />
                         </a>
                     </div>
@@ -62,8 +65,11 @@ export function Projects(){
 
                 <div className="card gradient4">
                     <div className="links">
-                        <a href="https://github.com/cesar-lima/link-platform">
-                            <GithubLogo size={30} weight="fill" />
+                        <a href="https://github.com/cesar-lima/link-platform" target="_blank">
+                            <GithubLogo size={29} weight="fill" />
+                        </a>
+                        <a href="https://remakelinktree.netlify.app/" target="_blank">
+                            <ArrowSquareOut size={30} />
                         </a>
                     </div>
 
@@ -78,7 +84,7 @@ export function Projects(){
 
                 <div className="card gradient5">
                     <div className="links">
-                        <a href="https://github.com/cesar-lima/pricing-table">
+                        <a href="https://github.com/cesar-lima/pricing-table" target="_blank">
                             <GithubLogo size={30} weight="fill" />
                         </a>
                     </div>
