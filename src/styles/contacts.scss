@@ -30,10 +30,7 @@
             flex-direction: column;
             width: 20rem;
             min-width: 17rem;
-            
-            a:hover{
-                color: #ffffff;
-            }
+            transition: 0.5s;
 
             a{
                 text-decoration: none;
@@ -54,6 +51,14 @@
 
             span{
                 font-size: 10pt;
+            }
+        }
+
+        .card:hover{
+            border-bottom: 3px solid #ffffff;
+
+            a{
+                color: #ffffff;
             }
         }
     }
