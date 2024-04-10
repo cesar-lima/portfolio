@@ -6,12 +6,12 @@ import "./styles/global.scss"
 
 export function App() {
   return (
-    <div>
+    <>
       <Nav />
       <Presentation />
       <Projects />
       <Contacts />
-    </div>
+    </>
   )
 }
 
