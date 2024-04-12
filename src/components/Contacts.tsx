@@ -13,7 +13,7 @@ export function Contacts() {
             </div>
 
             <div className="contacts-container">
-                <div className="card">
+                <div className="contact-card">
                     <a href="https://github.com/cesar-lima" target="_blank">
                         <div className="card-icon">
                         <GithubLogo size={26} weight="fill" />
@@ -25,7 +25,7 @@ export function Contacts() {
                     </a>
                 </div>
 
-                <div className="card">
+                <div className="contact-card">
                     <a href="https://br.linkedin.com/in/cesar-lima-correia" target="_blank">
                         <div className="card-icon">
                         <LinkedinLogo size={26} weight="fill" />
@@ -37,7 +37,7 @@ export function Contacts() {
                     </a>
                 </div>
 
-                <div className="card">
+                <div className="contact-card">
                     <a href="mailto:cesarr340@gmail.com" target="_blank" >
                         <div className="card-icon">
                         <Envelope size={26} />

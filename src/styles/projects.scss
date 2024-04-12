@@ -47,7 +47,7 @@
             background: linear-gradient(135deg, #d6f293, #a7d3ad);
         }
 
-        .card{
+        .project-card{
             display: flex;
             flex-direction: column;
             padding: 24px;
@@ -92,7 +92,7 @@
             }
         }
 
-        .card:hover{
+        .project-card:hover{
             background: #000000;
             border: 2px solid #ffffff;
             color: #ffffff;

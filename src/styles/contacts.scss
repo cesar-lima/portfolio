@@ -21,7 +21,7 @@
         flex-wrap: wrap;
         gap: 20px;
 
-        .card{
+        .contact-card{
             border: 1px solid #ffffff;
             border-bottom: 3px solid #FF325D;
             padding: 8px;
@@ -54,7 +54,7 @@
             }
         }
 
-        .card:hover{
+        .contact-card:hover{
             border-bottom: 3px solid #ffffff;
 
             a{

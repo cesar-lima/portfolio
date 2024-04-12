@@ -12,7 +12,7 @@ export function Projects(){
             </div>
 
             <div className="projects-container">
-                <div className="card gradient1">
+                <div className="project-card gradient1">
                     <div className="links">
                         <a href="https://github.com/cesar-lima/document-express" target="_blank">
                             <GithubLogo size={29} weight="fill" />
@@ -31,7 +31,7 @@ export function Projects(){
                     </div>
                 </div>
 
-                <div className="card gradient3">
+                <div className="project-card gradient3">
                     <div className="links">
                         <a href="https://github.com/cesar-lima/eschool" target="_blank">
                             <GithubLogo size={30} weight="fill" />
@@ -47,7 +47,7 @@ export function Projects(){
                     </div>
                 </div>
 
-                <div className="card gradient2">
+                <div className="project-card gradient2">
                     <div className="links">
                         <a href="https://github.com/cesar-lima/letmeask" target="_blank">
                             <GithubLogo size={30} weight="fill" />
@@ -63,7 +63,7 @@ export function Projects(){
                     </div>
                 </div>
 
-                <div className="card gradient4">
+                <div className="project-card gradient4">
                     <div className="links">
                         <a href="https://github.com/cesar-lima/link-platform" target="_blank">
                             <GithubLogo size={29} weight="fill" />
@@ -82,7 +82,7 @@ export function Projects(){
                     </div>
                 </div>
 
-                <div className="card gradient5">
+                <div className="project-card gradient5">
                     <div className="links">
                         <a href="https://github.com/cesar-lima/pricing-table" target="_blank">
                             <GithubLogo size={30} weight="fill" />

@@ -1,7 +1,7 @@
 import '../styles/presentation.scss'
 
-export function Presentation(){
-    return(
+export function Presentation() {
+    return (
         <section className='presentation'>
             <div>
                 HI THERE 👋, I'M
@@ -16,9 +16,11 @@ export function Presentation(){
                 I'm a front-end developer<br />based in São Paulo, Brazil
             </div>
             <div>
-                <button>
-                    <a href="#contacts">HIRE ME</a>
-                </button>
+                <a href="#contacts">
+                    <button>
+                        HIRE ME
+                    </button>
+                </a>
             </div>
         </section>
     )
