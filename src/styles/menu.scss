@@ -37,4 +37,39 @@
         stroke-dasharray: 20 300;
         stroke-dashoffset: -32.42;
     }
-}  
+}
+
+.offcanvas{
+    background-color: black;
+    box-shadow: 0px 0px 12px 0px #ffffff17;
+    color: white;
+    font-size: 10pt;
+
+    .offcanvas-header{
+        margin-bottom: 40px;
+    }
+
+    .offcanvas-links{
+        margin-top: 30px;
+        font-size: 16pt;
+        display: flex;
+        flex-direction: column;
+        padding-left: 16px;
+
+        a{
+            text-decoration: none;
+            color: white;
+            margin-bottom: 10px;
+            transition: letter-spacing 0.3s ease-in;
+
+            :visited{
+                color: white;
+                text-decoration: none;
+            }
+        }
+
+        a:hover{
+            letter-spacing: 5px;
+        }
+    }
+}
