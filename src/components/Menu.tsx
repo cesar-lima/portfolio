@@ -3,7 +3,7 @@ import '../styles/menu.scss'
 export function Menu() {
   return (
     <>
-      <a data-bs-toggle="offcanvas" role="button" aria-controls="offcanvas">
+      <a data-bs-toggle="offcanvas" href="#offcanvas" role="button" data-bs-target="#offcanvas" aria-controls="offcanvas">
         <label className="hamburger">
           <input type="checkbox" />
           <svg viewBox="0 0 32 32">
@@ -13,7 +13,7 @@ export function Menu() {
         </label>
       </a>
 
-      <div className="offcanvas offcanvas-start" id="offcanvas" aria-labelledby="offcanvasExampleLabel">
+      <div className="offcanvas offcanvas-end" id="offcanvas" aria-labelledby="offcanvasLabel">
         <div className="offcanvas-header">
           <svg width="100"
             viewBox="0 0 369.89473684210526 92.10627825859069">
