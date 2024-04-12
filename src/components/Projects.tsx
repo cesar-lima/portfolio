@@ -3,7 +3,7 @@ import "../styles/projects.scss"
 
 export function Projects(){
     return(
-        <section className="projects">
+        <section id="projects" className="projects">
             <div className="section-title">
                 FEATURED PROJECTS -
             </div>
