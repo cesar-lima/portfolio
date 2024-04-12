@@ -3,7 +3,7 @@ import '../styles/menu.scss'
 export function Menu() {
   return (
     <>
-      <a data-bs-toggle="offcanvas" href="#offcanvas" role="button" aria-controls="offcanvas">
+      <a data-bs-toggle="offcanvas" role="button" aria-controls="offcanvas">
         <label className="hamburger">
           <input type="checkbox" />
           <svg viewBox="0 0 32 32">
