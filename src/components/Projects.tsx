@@ -87,6 +87,9 @@ export function Projects(){
                         <a href="https://github.com/cesar-lima/pricing-table" target="_blank">
                             <GithubLogo size={30} weight="fill" />
                         </a>
+                        <a href="https://pricing-table-check.netlify.app" target="_blank">
+                            <ArrowSquareOut size={30} />
+                        </a>
                     </div>
 
                     <div className="title">
