@@ -1,3 +1,4 @@
+import About from "./components/About"
 import { Contacts } from "./components/Contacts"
 import { Nav } from "./components/Nav"
 import { Presentation } from "./components/Presentation"
@@ -9,6 +10,7 @@ export function App() {
     <>
       <Nav />
       <Presentation />
+      <About />
       <Projects />
       <Contacts />
     </>
