@@ -7,7 +7,7 @@
         background: transparent;
         box-shadow: 0px 0px 12px 0px #0f0f0f;
         position: relative;
-        max-width: 700px;
+        max-width: 900px;
         height: 330px;
         border-radius: 16px;
         overflow: hidden;
@@ -21,7 +21,7 @@
         left: 0;
         top: 0;
         margin-left: -50%;
-        margin-top: -70%;
+        margin-top: -60%;
         background: linear-gradient(744deg,  #382464 40%, #ff325e);
     }
 
@@ -32,25 +32,25 @@
     }
 
     .infotop {
-        text-align: center;
-        font-size: 28px;
+        text-align: justify;
+        font-size: 20pt;
         position: absolute;
-        // top: 5.6em;
         padding: 12px;
         left: 0;
         right: 0;
         color: rgb(255, 255, 255);
         font-weight: 600;
+        height: 100%;
 
         display: flex;
         align-items: center;
         flex-direction: column;
-
+        padding-top: 30px;
     }
 
-    .name {
-        font-size: 14px;
-        font-weight: 100;
+    .text {
+        font-size: 14pt;
+        font-weight: 300;
         position: relative;
         top: 1em;
         text-transform: lowercase;
@@ -94,6 +94,18 @@
 
         100% {
             transform: rotate(360deg);
+        }
+    }
+
+    @media screen and (max-width: 560px) {
+        .e-card{
+            height: 400px;
+        }
+    }
+
+    @media screen and (max-width: 480px) {
+        .e-card{
+            height: 530px;
         }
     }
 }

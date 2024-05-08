@@ -13,8 +13,13 @@ export function About() {
 
                 <div className="infotop">
                     About Me
-                    <br />
-                    <div className="name">lorem ipsum</div>
+                    <div className="text">
+                        I'm a programmer focused on creating user experiences that go beyond expectations.
+                        Based on my experience developing web applications, I am eager to leverage cutting-edge
+                        technologies to create innovative solutions that captivate users and surpass market standards.
+                        My dedication to staying up to date with the latest advances ensures that my work remains in step
+                        with technological innovations.
+                    </div>
                 </div>
             </div>
         </section>
