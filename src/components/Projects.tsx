@@ -100,6 +100,22 @@ export function Projects(){
                         REACT&nbsp; TS&nbsp; SCSS
                     </div>
                 </div>
+
+                <div className="project-card gradient6">
+                    <div className="links">
+                        <a href="https://multidisciplinarevoluire.netlify.app" target="_blank">
+                            <ArrowSquareOut size={30} />
+                        </a>
+                    </div>
+
+                    <div className="title">
+                        Evoluire.<br /><br />
+                    </div>
+
+                    <div className="techs">
+                        HTML&nbsp; CSS&nbsp; JS
+                    </div>
+                </div>
             </div>
         </section>
     )
