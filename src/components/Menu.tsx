@@ -37,6 +37,7 @@ export function Menu() {
           <div>N A V I G A T I O N</div>
 
           <div className='offcanvas-links'>
+            <a href='#about'>ABOUT ME</a>
             <a href='#projects'>PROJECTS</a>
             <a href='#contacts'>CONTACTS</a>
           </div>
