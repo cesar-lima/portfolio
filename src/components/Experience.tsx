@@ -15,74 +15,13 @@ export function Experience() {
                 <div className="experience-wrapper">
 
                     <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
+                        <div className="experience-date">2022 - atual</div>
                         <div className="experience-content">
                             <div className="experience-content-title">
                                 job do job
                             </div>
 
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
+                            <div className="experience-content-subtitle">
                                 job do job
                             </div>
 
@@ -97,11 +36,14 @@ export function Experience() {
             {/* study experience */}
             <div className="experience-container">
                 <div className="experience-wrapper">
-
                     <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
+                        <div className="experience-date">2021 - atual</div>
                         <div className="experience-content">
                             <div className="experience-content-title">
+                                job do job
+                            </div>
+
+                            <div className="experience-content-subtitle">
                                 job do job
                             </div>
 
@@ -118,55 +60,7 @@ export function Experience() {
                                 job do job
                             </div>
 
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
-                                job do job
-                            </div>
-
-                            <div className="experience-content-description">
-                                my actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla blamy actual work and bla bla bla
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="experience-item">
-                        <div className="experience-date">2023 - 2024</div>
-                        <div className="experience-content">
-                            <div className="experience-content-title">
+                            <div className="experience-content-subtitle">
                                 job do job
                             </div>
 
