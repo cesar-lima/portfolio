@@ -40,6 +40,7 @@ export function Menu() {
             <a href='#about'>ABOUT ME</a>
             <a href='#projects'>PROJECTS</a>
             <a href='#contacts'>CONTACTS</a>
+            <a href='#experience'>EXPERIENCE</a>
           </div>
         </div>
       </div>
