@@ -1,0 +1,54 @@
+.experience {
+    margin-top: 200px;
+    padding-inline: 50px;
+
+    .section-title {
+        font-size: 0.83rem;
+        letter-spacing: 3px;
+        font-weight: 500;
+        opacity: 0.5;
+    }
+
+    .section-subtitle {
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    .experience-container {
+        padding-inline: 24px;
+        margin-bottom: 100px;
+
+        .experience-wrapper {
+            border-left: 3px solid #382464;
+
+            .experience-item {
+                display: flex;
+                gap: 20px;
+                padding-inline: 16px;
+
+                margin-top: 40px;
+
+                .experience-date {
+                    min-width: 90px;
+                }
+
+                .experience-content-title {
+                    font-size: 20pt;
+                    margin: -10px 0px 15px 0px;
+                }
+            }
+
+            .experience-item:before {
+                content: "";
+                position: absolute;
+                
+                left: 168px;
+                height: 15px;
+                width: 15px;
+                border-radius: 100px;
+                background: #150d25;
+                border: 3px solid #382464;
+            }
+        }
+    }
+}

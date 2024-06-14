@@ -10,7 +10,7 @@ export function Presentation() {
                 César.
             </div>
             <div>
-                FRONT-END DEVELOPER 👨‍💻
+                FRONT-END DEVELOPER ✨
             </div>
             <div>
                 I'm a front-end developer<br />based in São Paulo, Brazil
