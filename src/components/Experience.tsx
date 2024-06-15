@@ -28,8 +28,8 @@ export function Experience() {
                             <div className="experience-content-description">
                             Diagnose and resolve technical problems.
                             Answer user questions and provide guidance on how to use a
-                            product or service. Offer remote assistance, through chat, telephone or access
-                            remote. Keep products or systems up to date.
+                            product or service. Offer remote assistance, through chat, telephone or remote access
+                          . Keep products or systems up to date.
                             Record all interactions and solutions provided to users, thus creating a
                             knowledge base with valuable information to improve business processes
                             technical support.
