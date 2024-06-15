@@ -19,7 +19,7 @@
         margin-bottom: 100px;
 
         .experience-wrapper {
-            border-left: 3px solid #382464;
+            border-left: 3px solid #ff325e;
 
             .experience-item {
                 display: flex;
@@ -29,12 +29,14 @@
                 margin-top: 40px;
 
                 .experience-date {
-                    min-width: 90px;
+                    min-width: 120px;
                 }
 
                 .experience-content-title {
                     font-size: 20pt;
+                    font-weight: 500;
                     margin: -10px 0px 5px 0px;
+                    color: #7045cb;
                 }
 
                 .experience-content-subtitle{
@@ -52,8 +54,8 @@
                 height: 15px;
                 width: 15px;
                 border-radius: 100px;
-                background: #150d25;
-                border: 3px solid #382464;
+                background: #7c182e;
+                border: 3px solid #ff325e;
             }
         }
     }
