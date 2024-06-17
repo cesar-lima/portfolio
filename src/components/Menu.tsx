@@ -1,6 +1,15 @@
-import '../styles/menu.scss'
+import '../styles/menu.scss';
 
 export function Menu() {
+  const handleClose = () => {
+    const offcanvas = document.getElementById('offcanvas');
+    const offcanvasbg = document.querySelector('.offcanvas-backdrop');
+    offcanvas?.classList.remove('show');
+    offcanvasbg?.classList.remove('show', 'offcanvas-backdrop', 'fade');
+
+    document.body.style.overflow = 'auto';
+  }
+  
   return (
     <>
       <a data-bs-toggle="offcanvas" role="button" data-bs-target="#offcanvas" aria-controls="offcanvas">
@@ -37,10 +46,10 @@ export function Menu() {
           <div>N A V I G A T I O N</div>
 
           <div className='offcanvas-links'>
-            <a href='#about'>ABOUT ME</a>
-            <a href='#experience'>EXPERIENCE</a>
-            <a href='#projects'>PROJECTS</a>
-            <a href='#contacts'>CONTACTS</a>
+            <a href='#about' onClick={handleClose}>ABOUT ME</a>
+            <a href='#experience' onClick={handleClose}>EXPERIENCE</a>
+            <a href='#projects' onClick={handleClose}>PROJECTS</a>
+            <a href='#contacts' onClick={handleClose}>CONTACTS</a>
           </div>
         </div>
       </div>
