@@ -32,6 +32,10 @@
                     min-width: 120px;
                 }
 
+                .experience-date-responsive {
+                    display: none;
+                }
+
                 .experience-content-title {
                     font-size: 20pt;
                     font-weight: 500;
@@ -39,7 +43,7 @@
                     color: #7045cb;
                 }
 
-                .experience-content-subtitle{
+                .experience-content-subtitle {
                     font-size: 14pt;
                     opacity: 0.7;
                     margin-bottom: 17px;
@@ -49,7 +53,7 @@
             .experience-item:before {
                 content: "";
                 position: absolute;
-                
+
                 left: 168px;
                 height: 15px;
                 width: 15px;
@@ -59,4 +63,33 @@
             }
         }
     }
+}
+
+
+@media screen and (max-width: 860px) {
+    .experience-container {
+        .experience-item:before {
+            left: 118px !important;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .experience-container {
+        padding-inline: 0px !important;
+        margin-inline: -40px;
+
+        .experience-date-responsive {
+            display: flex !important;
+        }
+
+        .experience-date {
+            display: none;
+        }
+        
+        .experience-item:before {
+            left: 54px !important;
+        }
+    }
+
 }

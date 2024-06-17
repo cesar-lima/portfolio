@@ -21,6 +21,8 @@ export function Experience() {
                                 IT Assistant
                             </div>
 
+                            <div className="experience-date-responsive">2022 - Present</div>
+
                             <div className="experience-content-subtitle">
                                 Civil Registration Officer of Natural Persons of the 21 Subdistrict-Saúde
                             </div>
@@ -52,6 +54,8 @@ export function Experience() {
                                 Bachelor's Degree in Information Systems
                             </div>
 
+                            <div className="experience-date-responsive">2022 - Present</div>
+
                             <div className="experience-content-subtitle">
                                 Centro Universitário FMU | FIAM FAAM
                             </div>
@@ -64,6 +68,8 @@ export function Experience() {
                             <div className="experience-content-title">
                                 Technical Course in IT for the internet
                             </div>
+
+                            <div className="experience-date-reponsive">2019 - 2021</div>
 
                             <div className="experience-content-subtitle">
                                 CPS - Centro Paulo Souza
