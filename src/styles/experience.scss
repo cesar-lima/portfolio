@@ -74,6 +74,7 @@
     }
 }
 
+
 @media screen and (max-width: 768px) {
     .experience-container {
         padding-inline: 0px !important;
@@ -86,10 +87,18 @@
         .experience-date {
             display: none;
         }
-        
+
         .experience-item:before {
             left: 54px !important;
         }
     }
 
+}
+
+@media screen and (max-width: 423px) {
+    .experience-container {
+        .experience-item:before {
+            left: 16px !important;
+        }
+    }
 }
