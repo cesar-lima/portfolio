@@ -103,7 +103,7 @@ export function Projects(){
 
                 <div className="project-card gradient6">
                     <div className="links">
-                        <a href="https://multidisciplinarevoluire.netlify.app" target="_blank">
+                        <a href="https://multidisciplinarevoluire.com.br" target="_blank">
                             <ArrowSquareOut size={30} />
                         </a>
                     </div>
