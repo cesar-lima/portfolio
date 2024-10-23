@@ -1,4 +1,6 @@
+import { DownloadSimple } from '@phosphor-icons/react'
 import '../styles/presentation.scss'
+import CV from '../../public/César Lima Correia - currículo.pdf'
 
 export function Presentation() {
     return (
@@ -19,6 +21,12 @@ export function Presentation() {
                 <a href="#contacts">
                     <button>
                         HIRE ME
+                    </button>
+                </a>
+
+                <a href={CV} target='_blank'>
+                    <button>
+                        DOWNLOAD CV <DownloadSimple size={20} color="#ffffff" />
                     </button>
                 </a>
             </div>

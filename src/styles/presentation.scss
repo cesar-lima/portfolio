@@ -29,27 +29,34 @@
         margin-top: 0.4rem;
     }
 
-    :nth-child(5) button {
-        background-color: #FF325D;
-        border: 1px solid transparent;
-        color: #ffffff;
-        margin-top: 1rem;
-        padding: 12px 32px;
-        border-radius: 24px;
-        font-size: 0.6rem;
-        letter-spacing: 3px;
-        font-weight: 600;
-        transition: 0.5s;
-        cursor: pointer;
+    :nth-child(5) {
+        display: flex;
+        gap: 12px;
 
-        a{
-            width: 100%;
+        button {
+            background-color: #FF325D;
+            border: 1px solid transparent;
+            color: #ffffff;
+            margin-top: 1rem;
+            height: 40px;
+            padding: 12px 32px;
+            border-radius: 24px;
+            font-size: 0.6rem;
+            letter-spacing: 3px;
+            font-weight: 600;
+            transition: 0.5s;
+            cursor: pointer;
+        }
+
+        a {
             height: 100%;
             color: #ffffff;
             text-decoration: none;
             font-size: 0.6rem;
+            display: flex;
+            align-items: center;
 
-            :visited{
+            :visited {
                 color: #ffffff;
             }
         }
@@ -73,11 +80,11 @@
     }
 }
 
-@media screen and (max-width: 860px){
-    .presentation{
+@media screen and (max-width: 860px) {
+    .presentation {
         padding-inline: 25px;
 
-        ::after{
+        ::after {
             display: none;
         }
     }
