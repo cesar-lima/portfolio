@@ -1,26 +1,26 @@
 import { DownloadSimple } from '@phosphor-icons/react'
-import '../styles/presentation.scss'
-import CV from '../../public/César Lima Correia - currículo.pdf'
+import '../../styles/presentation.scss'
+import CV from '../../../public/César Lima Correia - CV pt.pdf'
 
 export function Presentation() {
     return (
         <section className='presentation'>
             <div>
-                HI THERE 👋, I'M
+                Olá 👋, meu nome é
             </div>
             <div className='gradient'>
                 César.
             </div>
             <div>
-                FRONT-END DEVELOPER ✨
+                DESENVOLVEDOR FRONT-END ✨
             </div>
             <div>
-                I'm a front-end developer<br />based in São Paulo, Brazil
+                Sou um dev front-end<br /> e moro em São Paulo.
             </div>
             <div>
                 <a href="#contacts">
                     <button>
-                        HIRE ME
+                        CONTATO
                     </button>
                 </a>
 

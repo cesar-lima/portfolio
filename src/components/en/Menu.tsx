@@ -1,4 +1,4 @@
-import '../styles/menu.scss';
+import '../../styles/menu.scss';
 
 export function Menu() {
   const handleClose = () => {

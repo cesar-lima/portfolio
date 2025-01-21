@@ -1,14 +1,14 @@
 import { ArrowSquareOut, GithubLogo } from "@phosphor-icons/react"
-import "../styles/projects.scss"
+import "../../styles/projects.scss"
 
 export function Projects(){
     return(
         <section id="projects" className="projects">
             <div className="section-title">
-                FEATURED PROJECTS -
+                DESTAQUES -
             </div>
             <div className="section-subtitle">
-                Stuff I've Worked On 📈
+                Projetos em que Trabalhei 📈
             </div>
 
             <div className="projects-container">

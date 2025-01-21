@@ -1,4 +1,4 @@
-import '../styles/experience.scss'
+import '../../styles/experience.scss'
 
 export function Experience() {
     return (

@@ -1,4 +1,4 @@
-import '../styles/nav.scss'
+import '../../styles/nav.scss'
 import logo from '../assets/logo.svg'
 import { Menu } from './Menu'
 

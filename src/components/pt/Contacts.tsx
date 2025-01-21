@@ -1,15 +1,15 @@
 import { Envelope, GithubLogo, LinkedinLogo } from '@phosphor-icons/react'
-import '../styles/contacts.scss'
+import '../../styles/contacts.scss'
 
 export function Contacts() {
     return (
         <section className="contacts" id="contacts">
             <div className="section-title">
-                MORE OF ME -
+                MAIS SOBRE MIM -
             </div>
             
             <div className="section-subtitle">
-                On The Web 🌐
+                Na Web 🌐
             </div>
 
             <div className="contacts-container">
