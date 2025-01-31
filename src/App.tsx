@@ -11,6 +11,7 @@ import { Experience as ExperiencePT } from "./components/pt/Experience"
 import { Nav as NavPT } from "./components/pt/Nav"
 import { Presentation as PresentationPT } from "./components/pt/Presentation"
 import { Projects as ProjectsPT } from "./components/pt/Projects"
+
 import "./styles/global.scss"
 import { useEffect, useState } from "react"
 

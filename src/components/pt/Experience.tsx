@@ -1,4 +1,5 @@
 import '../../styles/experience.scss'
+import restartBadge from '../../assets/aws-restart-badge.png'
 
 export function Experience() {
     return (
@@ -28,16 +29,16 @@ export function Experience() {
                             </div>
 
                             <div className="experience-content-description">
-                            Diagnosticar e resolver problemas técnicos.
-                            Responda às perguntas dos usuários e forneça orientações sobre como usar um
-                            produto ou serviço. Ofereça atendimento remoto, por chat, telefone ou acesso remoto
-                          . Mantenha produtos ou sistemas atualizados.
-                            Registrar todas as interações e soluções fornecidas aos usuários, criando assim um
-                            base de conhecimento com informações valiosas para melhorar os processos de negócios
-                            suporte técnico.
-                            Forneça treinamento básico aos usuários para evitar problemas comuns.
-                            Diagnosticar e solucionar problemas de hardware, como periféricos e outros
-                            componentes. Gerenciar e criar aplicações web para a empresa.
+                                Diagnosticar e resolver problemas técnicos.
+                                Responda às perguntas dos usuários e forneça orientações sobre como usar um
+                                produto ou serviço. Ofereça atendimento remoto, por chat, telefone ou acesso remoto
+                                . Mantenha produtos ou sistemas atualizados.
+                                Registrar todas as interações e soluções fornecidas aos usuários, criando assim um
+                                base de conhecimento com informações valiosas para melhorar os processos de negócios
+                                suporte técnico.
+                                Forneça treinamento básico aos usuários para evitar problemas comuns.
+                                Diagnosticar e solucionar problemas de hardware, como periféricos e outros
+                                componentes. Gerenciar e criar aplicações web para a empresa.
                             </div>
                         </div>
                     </div>
@@ -48,10 +49,31 @@ export function Experience() {
             <div className="experience-container">
                 <div className="experience-wrapper">
                     <div className="experience-item">
+                        <div className="experience-date">2024 - 2025</div>
+                        <div className="experience-content">
+                            <div className="experience-content-title">
+                                AWS re/Start | Treinamento e Certificação
+                            </div>
+
+                            <div className="experience-date-responsive">2024 - 2025</div>
+
+                            <div className="experience-content-subtitle">
+                                Escola da Nuvem
+                            </div>
+
+                            <div className="experience-content-subtitle">
+                                <a href="https://www.credly.com/badges/db698a02-84a7-4ed5-b604-6582a342b3d9/public_url" target="_blank" rel="noopener noreferrer">
+                                    <img src={restartBadge} alt="aws restart badge" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="experience-item">
                         <div className="experience-date">2022 - Atual</div>
                         <div className="experience-content">
                             <div className="experience-content-title">
-                               Bacharelado em Sistemas de Informação
+                                Bacharelado em Sistemas de Informação
                             </div>
 
                             <div className="experience-date-responsive">2022 - Atual</div>

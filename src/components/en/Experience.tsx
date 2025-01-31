@@ -1,4 +1,5 @@
 import '../../styles/experience.scss'
+import restartBadge from '../../assets/aws-restart-badge.png'
 
 export function Experience() {
     return (
@@ -47,6 +48,27 @@ export function Experience() {
             {/* study experience */}
             <div className="experience-container">
                 <div className="experience-wrapper">
+                <div className="experience-item">
+                        <div className="experience-date">2024 - 2025</div>
+                        <div className="experience-content">
+                            <div className="experience-content-title">
+                                AWS re/Start | Training e Certification
+                            </div>
+
+                            <div className="experience-date-responsive">2024 - 2025</div>
+
+                            <div className="experience-content-subtitle">
+                                Escola da Nuvem
+                            </div>
+
+                            <div className="experience-content-subtitle">
+                                <a href="https://www.credly.com/badges/db698a02-84a7-4ed5-b604-6582a342b3d9/public_url" target="_blank" rel="noopener noreferrer">
+                                    <img src={restartBadge} alt="aws restart badge" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
                     <div className="experience-item">
                         <div className="experience-date">2022 - Present</div>
                         <div className="experience-content">
