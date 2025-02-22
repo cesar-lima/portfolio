@@ -56,7 +56,7 @@ export function Experience() {
                                 AWS Certified Cloud Practitioner
                             </div>
 
-                            <div className="experience-date-responsive">2024 - 2025</div>
+                            <div className="experience-date-responsive">2025</div>
 
                             <div className="experience-content-subtitle">
                                 AWS
