@@ -1,6 +1,6 @@
 import { DownloadSimple } from '@phosphor-icons/react'
 import '../../styles/presentation.scss'
-import CV from '../../assets/cv/César Lima Correia CV - en .pdf'
+import CV from '../../assets/cv/César Lima Correia CV - en.pdf'
 
 export function Presentation() {
     return (
